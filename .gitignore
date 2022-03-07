@@ -1,0 +1,6 @@
+/tmp/
+*_old
+*DS_store
+img/*_backup
+img/*DS_store
+img/Thumbs*
